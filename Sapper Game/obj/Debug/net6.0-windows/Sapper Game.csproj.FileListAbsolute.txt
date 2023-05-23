@@ -1,0 +1,19 @@
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\bin\Debug\net6.0-windows\Sapper Game.exe
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\bin\Debug\net6.0-windows\Sapper Game.deps.json
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\bin\Debug\net6.0-windows\Sapper Game.runtimeconfig.json
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\bin\Debug\net6.0-windows\Sapper Game.dll
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\bin\Debug\net6.0-windows\Sapper Game.pdb
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.csproj.AssemblyReference.cache
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.csproj.GenerateResource.cache
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.AssemblyInfoInputs.cache
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.AssemblyInfo.cs
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.csproj.CoreCompileInputs.cache
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.dll
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\refint\Sapper Game.dll
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.pdb
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper Game.genruntimeconfig.cache
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\ref\Sapper Game.dll
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper_Game.SapperMap.resources
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper_Game.Properties.Resources.resources
+C:\Users\Goodwin\source\repos\Sapper Game\Sapper Game\obj\Debug\net6.0-windows\Sapper_Game.Start_display.resources
